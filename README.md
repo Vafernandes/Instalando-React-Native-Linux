@@ -56,7 +56,7 @@ Obs: Para verificar se existe algum desses arquivos, digite **ls -a** no termina
 
 Ex: gedit .profile
 
-Adicione essas linhas no arquivo (de preferência no início):
+**Adicione essas linhas no arquivo (de preferência no início):**
 
 export ANDROID_HOME=$HOME/Android/Sdk
 
