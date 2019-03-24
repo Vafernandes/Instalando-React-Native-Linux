@@ -1,6 +1,6 @@
 # Instalando-React-Native
 
-# Para configurar o ambiente Android no Linux, vamos precisar instalar 2 dependências: Node e JDK.
+## Para configurar o ambiente Android no Linux, vamos precisar instalar 2 dependências: Node e JDK.
 
 # Instalando CURL
 Certifique-se que você tenha o cURL instalado executando o seguinte comando no terminal:
