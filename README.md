@@ -52,7 +52,7 @@ Após feito o Download, extraia o conteúdo do pacote para a pasta criada no pas
 
 Com esse endereço precisamos configurar algumas **variáveis ambiente** em nosso sistema, procure pelo primeiro dos seguintes arquivos existentes no seu sistema: ~/.bash_profile , ~/.profile ou ~/.zshrc.
 
-Obs: Para verificar se existe algum desses arquivos, digite **ls -a**, _Ex: User:~$ls -a_ no terminal. Abra com um editor de texto de sua escolha, para facilitar na adição das variáveis de ambiente. No exemplo a seguir, usarei o editor _Gedit_
+Obs: Para verificar se existe algum desses arquivos, digite **ls -a**, _Ex: ~/ ls -a_ no terminal. Abra com um editor de texto de sua escolha, para facilitar na adição das variáveis de ambiente. No exemplo a seguir, usarei o editor _Gedit_
 
 Ex: gedit .profile
 
