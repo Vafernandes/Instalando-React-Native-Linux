@@ -4,12 +4,13 @@
 
 ### Instalando CURL
 Certifique-se que você tenha o cURL instalado executando o seguinte comando no terminal:
-sudo apt-get install curl
+
+**sudo apt-get install curl**
 
 ### Instalando NodeJS
 Agora com o CURL instalado, vamos instalar no NodeJS utilizando os seguintes comandos:
 
-_curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -_
+**curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -**
 sudo apt install nodejs
 Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager
 
