@@ -34,6 +34,7 @@ Agora precisamos instalar a JDK (Java Development Kit) na versão 8 com o seguin
 
 **sudo apt-get install openjdk-8-jdk**
 
-_Atenção: A versão 8 do JDK é obrigatória, não utilize versões mais recentes.
+Obs: A versão 8 do JDK é obrigatória, não utilize versões mais recentes.
 Podemos testar a instalação do JDK com o seguinte comando:
-java -version_
+
+_java -version_
