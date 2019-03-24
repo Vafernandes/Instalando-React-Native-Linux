@@ -13,6 +13,7 @@ Agora com o CURL instalado, vamos instalar no NodeJS utilizando os seguintes com
 **curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -**
 
 **sudo apt install nodejs**
+
 Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager
 
 ### Instalando React Native CLI
