@@ -3,7 +3,7 @@
 ## Para configurar o ambiente no Linux, vamos precisar instalar 2 dependências: Node e JDK.
 
 ### Instalando CURL
-Certifique-se que você tenha o cURL instalado executando o seguinte comando no terminal:
+Certifique-se que você tenha o CURL instalado executando o seguinte comando no terminal:
 
 **sudo apt-get install curl**
 
