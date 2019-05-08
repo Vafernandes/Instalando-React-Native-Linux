@@ -1,4 +1,4 @@
-# Instalando-React-Native
+# Instalando-React-Native-Linux
 
 ## Para configurar o ambiente no Linux, vamos precisar instalar 2 dependências: Node e JDK.
 
